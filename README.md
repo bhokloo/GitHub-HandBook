@@ -169,7 +169,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
   </tr>
 </table>
 
-## GitHub
+## Git and GitHub on Windows
 [Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
 
 <table>
@@ -190,7 +190,42 @@ Now it's time for pull request. You can open a pull request in your own reposito
     </p>
     </td>
   </tr>
- 
+  
+  <tr>
+  <td colspan="2"><br/>Go to Desktop and create a folder <strong>"git"</strong>. Open the folder and right Click, select <strong>Git Bash Here</strong><br/><br/>
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2"><br/>Create a Respository Online. Follow instruction above<br/><br/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Click Clone or Download <br/><br/>
+     Copy the URL 
+    </td>
+    <td> <p align="left">
+       <img src="pp2.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td> git config --global user.name "Your Name" <br/><br/>
+git config --global user.email "youremail@domain.com" <br/><br/>
+git clone (Paste the URL)
+ <br/><br/>
+    </td>
+     <td> <p align="left">
+       <img src="pp3.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+  
+   <tr>
+    <td colspan="2"> Go to the "git" folder and there you go. All files in your local folder<br/><br/>
+ <br/>
+  </tr>
 </table>
 <br/>
 
