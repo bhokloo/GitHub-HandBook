@@ -82,6 +82,23 @@ Refer to this [Link](https://github.com/join?source=header-home)
     <td> <p align="left">
        <img src="p3.PNG" width="550">
     </p>
+    </td>create a new branch
+  </tr>
+  
+</table> 
+### Branch
+<table>
+   <tr>
+    <td><strong>Create a New Brach</strong><br/></br>
+<ul>
+  <li>Name it</li>
+  <li>Provide a Short description</li>
+  <li>Select Initializewith a README.</li>
+      </ul>
+    </td>
+    <td> <p align="left">
+       <img src="p3.PNG" width="550">
+    </p>
     </td>
   </tr>
  
