@@ -41,7 +41,7 @@ Refer to this [Link](https://github.com/join?source=header-home)
     </ul>
     </td>
     <td> <p align="left">
-       <img src="p4.png" width="350">
+       <img src="pictures/p4.png" width="350">
     </p>
     </td>
   </tr>
@@ -55,7 +55,7 @@ Refer to this [Link](https://github.com/join?source=header-home)
       </ul>
     </td>
     <td> <p align="left">
-       <img src="p3.PNG" width="550">
+       <img src="pictures/p3.PNG" width="550">
     </p>
     </td>create a new branch
   </tr>
@@ -76,7 +76,7 @@ Refer to this [Link](https://github.com/join?source=header-home)
       </ul>
     </td>
     <td> <p align="left">
-       <img src="p6.png" width="550">
+       <img src="pictures/p6.png" width="550">
     </p>
     </td>
   </tr>
@@ -101,7 +101,7 @@ Refer to this [Link](https://github.com/join?source=header-home)
       </ul>
     </td>
     <td> <p align="left">
-       <img src="p7.png" width="550">
+       <img src="pictures/p7.png" width="550">
     </p>
     </td>
   </tr>
@@ -122,7 +122,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td><br/>Click the  Pull Request tab<br/><br/>Click New Pull Request</br>
     </td>
     <td> <p align="left">
-       <img src="p8.PNG" width="550">
+       <img src="pictures/p8.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -130,7 +130,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
   <td><br/>In the <strong>Example Comparisons box</strong>,<br/><br/>select your branch <br/>Compare with the Master Branch.</strong><br/></br>
     </td>
     <td> <p align="left">
-       <img src="p9.PNG" width="550">
+       <img src="pictures/p9.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -139,14 +139,14 @@ Now it's time for pull request. You can open a pull request in your own reposito
   <td><br/>click Create Pull Request button.</br>
     </td>
     <td> <p align="left">
-       <img src="p11.PNG" width="550">
+       <img src="pictures/p11.PNG" width="550">
     </p>
     </td>
      <tr>
     <td><br/>Give a title and a brief <br/><br/>description of your changes.</br>
     </td>
     <td> <p align="left">
-       <img src="p12.PNG" width="550">
+       <img src="pictures/p12.PNG" width="550">
     </p>
     </td>
   </tr> 
@@ -155,7 +155,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td><br/>Click Merge pull request<br/><br/>Click Confirm Merge</br>
     </td>
     <td> <p align="left">
-       <img src="p10.PNG" width="550">
+       <img src="pictures/p10.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -163,7 +163,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td><br/>Delete your Branch<br/></br>
     </td>
     <td> <p align="left">
-       <img src="p13.PNG" width="550">
+       <img src="pictures/p13.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -177,7 +177,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td>Search for Git Bash
     </td>
     <td> <p align="left">
-       <img src="p1.png" width="550">
+       <img src="pictures/p1.png" width="550">
     </p>
     </td>
   </tr>
@@ -186,7 +186,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td>Type git --version
     </td>
     <td> <p align="left">
-       <img src="p2.PNG" width="550">
+       <img src="pictures/p2.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -205,7 +205,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
      Copy the URL 
     </td>
     <td> <p align="left">
-       <img src="pp2.PNG" width="550">
+       <img src="pictures/pp2.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -217,7 +217,7 @@ git clone (Paste the URL)
  <br/><br/>
     </td>
      <td> <p align="left">
-       <img src="pp3.PNG" width="550">
+       <img src="pictures/pp3.PNG" width="550">
     </p>
     </td>
   </tr>
@@ -246,7 +246,7 @@ git push -u origin master <br/><br/>
  <br/><br/>
     </td>
      <td> <p align="left">
-       <img src="pp4.PNG" width="550">
+       <img src="pictures/pp4.PNG" width="550">
     </p>
     </td>
   </tr>
