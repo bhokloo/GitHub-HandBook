@@ -87,28 +87,21 @@ Refer to this [Link](https://github.com/join?source=header-home)
 <tr>
   <td colspan="2"><strong><h2>BRANCH</h2></strong>
     <p align="justify">
-      Branching is the way to work on different versions of a repository at one time.
-By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
-When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates
-      Have you ever saved different versions of a file? Something like:
-story.txt
-story-joe-edit.txt
-story-joe-edit-reviewed.txt
-Branches accomplish similar goals in GitHub repositories.
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+      We use Branching to work on different versions of a repository at one time. The default <strong>BRANCH</strong> is named as <strong>MASTER</strong>. We create new branches which can be said as a copy of Master branch and we do our experiments there before committing them to master. Any changes done in your new branches will not be reflected in your master branch. But if someone made a change in your master branch then you could pull in those updates to your branch. When the code is ready, you can merge all of your branch into master.
     </p></br>
     <td>
  </tr>
    <tr>
     <td><br/><strong>Create a New Brach</strong><br/></br>
 <ul>
-  <li>Name it</li>
-  <li>Provide a Short description</li>
-  <li>Select Initializewith a README.</li>
+  <li>Go to your new repository>/li>
+  <li>Drop down (branch: master)</li>
+  <li>Type a branch nam</li>
+  <li>Select the blue branch box</li>
       </ul>
     </td>
     <td> <p align="left">
-       <img src="p3.PNG" width="550">
+       <img src="p5.png" width="550">
     </p>
     </td>
   </tr>
