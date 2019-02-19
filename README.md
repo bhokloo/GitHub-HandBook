@@ -60,19 +60,19 @@ Refer to this [Link](https://github.com/join?source=header-home)
 
 <table>
   <tr>
-    <td><strong>Create a Repository</strong><br/>
+    <td><strong>Select New Repository</strong><br/><br/>
 <ul><li>Upper right corner</li>
   <li>Select New repository</li>
     </ul>
     </td>
     <td> <p align="left">
-       <img src="p4.PNG" width="550">
+       <img src="p4.png" width="350">
     </p>
     </td>
   </tr>
   
   <tr>
-    <td><strong>Create a Repository</strong><br/>
+    <td><strong>Create a Repository</strong><br/></br>
 <ul>
   <li>Name it</li>
   <li>Provide a Short description</li>
