@@ -94,14 +94,14 @@ Refer to this [Link](https://github.com/join?source=header-home)
    <tr>
     <td><br/><strong>Create a New Brach</strong><br/></br>
 <ul>
-  <li>Go to your new repository>/li>
+  <li>Go to your new repository</li>
   <li>Drop down (branch: master)</li>
-  <li>Type a branch nam</li>
+  <li>Type a branch name</li>
   <li>Select the blue branch box</li>
       </ul>
     </td>
     <td> <p align="left">
-       <img src="p5.png" width="550">
+       <img src="p6.png" width="550">
     </p>
     </td>
   </tr>
