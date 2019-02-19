@@ -32,6 +32,6 @@ If you are working together on the same projects then **Git** will help you to:
 
 [Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
 
-Search for Git Bash
+![alt text](p1.png)
 
 
