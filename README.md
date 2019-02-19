@@ -32,6 +32,7 @@ If you are working together on the same projects then **Git** will help you to:
 
 [Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
 
-![alt text](p1.png)
+
+![Search for this ](p1.png)
 
 
