@@ -1,14 +1,16 @@
 # GitHub HandBook
-**[GitHub](http://github.com)** is a development platform for version control and collaboration.It allows you to host and manage your projects and work together on same projects from anywhere.
-
+**[GitHub](http://github.com)** is a development platform for version control and collaboration. It allows you to host and manage your projects and work together on same projects from anywhere.
 Let’s start with a few basics.
-
 ## Terminology
-### **Repository:** 
-A repository is a folder inside which you are going to store every piece of your code.
-Fork: Copying someone’s repository into your account is called forking.
-Upstream: The guy or organisation which owns the code that you forked.
-1. What is Git?
+
+| Command | Description |
+| ---| --- |
+| Repository | **"Repo"** for shortv is a folder for storing your codes. |
+| Fork | A copy of someone else's project or repository. Forking makes it possible for you to freely experiment the project **WITHOUT** affecting the original project. |
+| Upstream | The original repo or Project that you have forked |
+
+
+## What is Git?
 Version Control System (keep reading and this will make sense towards the end).
 Let’s say you have a project you want to work on. 
 Now you have two primary motives:
