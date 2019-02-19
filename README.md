@@ -28,32 +28,7 @@ If you are working together on the same projects then **Git** will help you to:
 - Backup your code easily to a remote server.
 - **And Many more**
 
-## Getting Started
-
-[Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
-
-<table>
-  <tr>
-    <td>Search for Git Bash
-    </td>
-    <td> <p align="left">
-       <img src="p1.png" width="550">
-    </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Type git --version
-    </td>
-    <td> <p align="left">
-       <img src="p2.PNG" width="550">
-    </p>
-    </td>
-  </tr>
- 
-</table>
-<br/>
-
+# Getting Started
 ## Sign Up on GitHub
 
 Refer to this [Link](https://github.com/join?source=header-home)
@@ -192,13 +167,31 @@ Now it's time for pull request. You can open a pull request in your own reposito
     </p>
     </td>
   </tr>
-    
-    
-    
-    
-    
-    
-    
 </table>
+
+## GitHub
+[Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
+
+<table>
+  <tr>
+    <td>Search for Git Bash
+    </td>
+    <td> <p align="left">
+       <img src="p1.png" width="550">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Type git --version
+    </td>
+    <td> <p align="left">
+       <img src="p2.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+ 
+</table>
+<br/>
 
 
