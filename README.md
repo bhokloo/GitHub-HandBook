@@ -46,7 +46,7 @@ If you are working together on the same projects then **Git** will help you to:
     <td>Type git --version
     </td>
     <td> <p align="left">
-       <img src="p2.png" width="350">
+       <img src="p2.PNG" width="350">
     </p>
     </td>
   </tr>
