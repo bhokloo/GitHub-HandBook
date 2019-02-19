@@ -223,12 +223,12 @@ git clone (Paste the URL)
   </tr>
   
    <tr>
-    <td colspan="2"> Go to the "git" folder and there you go. All files in your local folder<br/><br/>
+    <td colspan="2"><br/>Go to the "git" folder and there you go. All files in your local folder<br/>
  <br/>
   </tr>
   
    <tr>
-    <td colspan="2"> <br/><br/>Go inside the new folder.
+    <td colspan="2"> <br/>Go inside the new folder.
       In my case its <strong>"GitHub-HandBook" and create a file "hello.txt"</strong>
  <br/><br/>
   </tr>
