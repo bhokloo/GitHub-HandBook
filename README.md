@@ -226,6 +226,30 @@ git clone (Paste the URL)
     <td colspan="2"> Go to the "git" folder and there you go. All files in your local folder<br/><br/>
  <br/>
   </tr>
+  
+   <tr>
+    <td colspan="2"> Go inside the new folder.
+      In my case its <strong>"GitHub-HandBook" and create a file "hello.txt"</strong>
+ <br/>
+  </tr>
+  
+  <tr>
+    <td> type cd "folder name" <br/><br/>
+git add hello.txt <br/><br/>
+git status <br/><br/>
+git commit -m "(committed message)" "filename"<br/><br/>
+git push -u origin master <br/><br/>
+      Provide your credentials <br/>
+      <br/>
+  There you go, Refresh your <br/><br/>GitHub Online Account to see the new file
+
+ <br/><br/>
+    </td>
+     <td> <p align="left">
+       <img src="pp4.PNG" width="550">
+    </p>
+    </td>
+  </tr>
 </table>
 <br/>
 
