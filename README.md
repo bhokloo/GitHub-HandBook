@@ -1,9 +1,10 @@
 # GitHub HandBook
 _________________________________________________________________________________________________________________________________________
-GitHub Guide for Begineers
 
-You’ll learn how to:
-Create and use a repository
-Start and manage a new branch
-Make changes to a file and push them to GitHub as commits
-Open and merge a pull request
+GitHub is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers.
+
+You’ll learn about :
+Repositories
+Branches
+Commits
+Pull Requests
