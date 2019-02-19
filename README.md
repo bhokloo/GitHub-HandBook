@@ -228,9 +228,9 @@ git clone (Paste the URL)
   </tr>
   
    <tr>
-    <td colspan="2"> Go inside the new folder.
+    <td colspan="2"> <br/><br/>Go inside the new folder.
       In my case its <strong>"GitHub-HandBook" and create a file "hello.txt"</strong>
- <br/>
+ <br/><br/>
   </tr>
   
   <tr>
