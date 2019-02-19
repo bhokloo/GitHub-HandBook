@@ -61,7 +61,7 @@ Refer to this [Link](https://github.com/join?source=header-home)
 <table>
   <tr>
     <td><strong>Select New Repository</strong><br/><br/>
-<ul><li>Upper right corner</li>
+    <ul><li>Upper right corner</li>
   <li>Select New repository</li>
     </ul>
     </td>
@@ -84,14 +84,23 @@ Refer to this [Link](https://github.com/join?source=header-home)
     </p>
     </td>create a new branch
   </tr>
-  
-</table> 
-
-<p> New Branch</p>
-
-<table>
+<tr>
+  <td colspan="2"><strong><h2>BRANCH</h2></strong>
+    <p align="justify">
+      Branching is the way to work on different versions of a repository at one time.
+By default your repository has one branch named master which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to master.
+When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates
+      Have you ever saved different versions of a file? Something like:
+story.txt
+story-joe-edit.txt
+story-joe-edit-reviewed.txt
+Branches accomplish similar goals in GitHub repositories.
+Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+    </p></br>
+    <td>
+ </tr>
    <tr>
-    <td><strong>Create a New Brach</strong><br/></br>
+    <td><br/><strong>Create a New Brach</strong><br/></br>
 <ul>
   <li>Name it</li>
   <li>Provide a Short description</li>
