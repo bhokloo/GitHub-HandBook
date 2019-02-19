@@ -52,5 +52,39 @@ If you are working together on the same projects then **Git** will help you to:
   </tr>
  
 </table>
+<br/>
+
+## Sign Up on GitHub
+
+Refer to this [Link](https://github.com/join?source=header-home)
+
+<table>
+  <tr>
+    <td><strong>Create a Repository</strong><br/>
+<ul><li>Upper right corner</li>
+  <li>Select New repository</li>
+    </ul>
+    </td>
+    <td> <p align="left">
+       <img src="p4.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><strong>Create a Repository</strong><br/>
+<ul>
+  <li>Name it</li>
+  <li>Provide a Short description</li>
+  <li>Select Initializewith a README.</li>
+      </ul>
+    </td>
+    <td> <p align="left">
+       <img src="p3.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+ 
+</table>
 
 
