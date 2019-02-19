@@ -28,3 +28,10 @@ If you are working together on the same projects then **Git** will help you to:
 - Backup your code easily to a remote server.
 - **And Many more**
 
+## Getting Started
+
+[Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
+
+Search for Git Bash
+
+
