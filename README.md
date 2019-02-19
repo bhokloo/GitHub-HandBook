@@ -135,6 +135,55 @@ Refer to this [Link](https://github.com/join?source=header-home)
    <td colspan="2"><p><br/>You have a <strong>MASTER</strong> Branch and <strong>DEMOEDITS</strong> Branch. These changes will be made to just the README file on your <strong>DEMOEDITS</strong> branch and not on your <strong>MASTER</strong> Branch.</p><br/>
   </td>
   <tr>
+    
+   <tr>
+  <td colspan="2"><strong><h2>PULL REQUEST</h2></strong>
+    <p align="justify">
+Now it's time for pull request. You can open a pull request in your own repository and then merge it to your master branch. But mainly we use pull request to propose your changes to someone interested. If someone review your code they will pull in your contribution to their branches. You can easily figure out the differences of the content from both branches.
+    </p></br>
+    <td>
+ </tr>
+   <tr>
+    <td><br/>Click the  Pull Request tab<br/></br>
+    </td>
+    <td> <p align="left">
+       <img src="p8.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+    <tr>
+  <td><br/>In the Example Comparisons box,<br/>select the branch you made, </br>readme-edits, to compare with master (the original).</strong><br/></br>
+    </td>
+    <td> <p align="left">
+       <img src="p9.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+  <td><br/>VWhen you’re satisfied that </br>these are the changes you want to</br> submit, click the big green Create Pull Request button.<br/></br>
+    </td>
+    <td> <p align="left">
+       <img src="p11.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+    <tr>
+    <td><br/>View your changes<br/></br>
+    </td>
+    <td> <p align="left">
+       <img src="p10.PNG" width="550">
+    </p>
+    </td>
+  </tr>
+    
+    
+    
+    
+    
+    
+    
+    
 </table>
 
 
