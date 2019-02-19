@@ -106,6 +106,35 @@ Refer to this [Link](https://github.com/join?source=header-home)
     </td>
   </tr>
  
+ 
+ <tr>
+  <td colspan="2"><strong><h2>COMMIT</h2></strong>
+    <p align="justify">
+     Commits are basically saving your changes. For each commit you can add a commit message and a small description explaining the changes made so that other contributors will understand why you made the change. In short Commits prepares a history of your changes. Thus helping you to see your previous codes.
+    </p></br>
+    <td>
+ </tr>
+   <tr>
+    <td><br/><strong>Create Commit</strong><br/></br>
+<ul>
+  <li>Click the README.md file</li>
+  <li>Click the  pencil to edit</li>
+  <li>Write something</li>
+  <li>Add a commit message </li>
+  <li>Add a description</li>
+   <li>Click Commit changes button.</li>
+      </ul>
+    </td>
+    <td> <p align="left">
+       <img src="p7.png" width="550">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+   <td colspan="2"><p><br/>You have a <strong>MASTER</strong> Branch and <strong>DEMOEDITS</strong> Branch. These changes will be made to just the README file on your <strong>DEMOEDITS</strong> branch and not on your <strong>MASTER</strong> Branch.</p><br/>
+  </td>
+  <tr>
 </table>
 
 
