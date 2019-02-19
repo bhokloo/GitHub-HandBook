@@ -241,7 +241,7 @@ git commit -m "(committed message)" "filename"<br/><br/>
 git push -u origin master <br/><br/>
       Provide your credentials <br/>
       <br/>
-  There you go, Refresh your <br/><br/>GitHub Online Account to see the new file
+  There you go, Refresh your <br/>GitHub Online Account to see the new file
 
  <br/><br/>
     </td>
