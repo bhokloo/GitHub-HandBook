@@ -1,13 +1,14 @@
 # GitHub HandBook
 **[GitHub](http://github.com)** is a development platform for version control and collaboration. It allows you to host and manage your projects and work together on same projects from anywhere.
+
 Let’s start with a few basics.
 ## Terminology
 
 | Command | Description |
 | ---| --- |
-| Repository | **"Repo"** for shortv is a folder for storing your codes. |
-| Fork | A copy of someone else's project or repository. Forking makes it possible for you to freely experiment the project **WITHOUT** affecting the original project. |
-| Upstream | The original repo or Project that you have forked |
+| **Repository** | **"Repo"** for shortv is a folder for storing your codes. |
+| **Fork | A copy of someone else's project or repository. Forking makes it possible for you to freely experiment the project **WITHOUT** affecting the original project. |
+| **Upstream** | The original repo or Project that you have forked |
 
 
 ## What is Git?
