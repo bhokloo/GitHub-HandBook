@@ -32,10 +32,33 @@ If you are working together on the same projects then **Git** will help you to:
 
 [Download](https://git-scm.com/downloads) and install [Git](https://git-scm.com/downloads)
 
-<p align="right">
-  <img src="p1.png" width="350">
-</p>
-
-![alt txt](p1.png)
+<table>
+  <tr>
+    <td>Search for Git Bash
+    </td>
+    <td> <p align="left">
+       <img src="p1.png" width="350">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Type git --version
+    </td>
+    <td> <p align="left">
+       <img src="p2.png" width="350">
+    </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Search for Git Bash
+    </td>
+    <td> <p align="left">
+       <img src="p1.png" width="350">
+    </p>
+    </td>
+  </tr>
+</table>
 
 
