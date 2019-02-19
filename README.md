@@ -144,7 +144,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     <td>
  </tr>
    <tr>
-    <td><br/>Click the  Pull Request tab<br/></br>
+    <td><br/>Click the  Pull Request tab<br/><br/>Click New Pull Request</br>
     </td>
     <td> <p align="left">
        <img src="p8.PNG" width="550">
@@ -152,7 +152,7 @@ Now it's time for pull request. You can open a pull request in your own reposito
     </td>
   </tr>
     <tr>
-  <td><br/>In the Example Comparisons box,<br/>select the branch you made, </br>readme-edits, to compare with master (the original).</strong><br/></br>
+  <td><br/>In the <strong>Example Comparisons box</strong>,<br/><br/>select your branch <br/>Compare with the Master Branch.</strong><br/></br>
     </td>
     <td> <p align="left">
        <img src="p9.PNG" width="550">
@@ -161,22 +161,37 @@ Now it's time for pull request. You can open a pull request in your own reposito
   </tr>
   
   <tr>
-  <td><br/>VWhen you’re satisfied that </br>these are the changes you want to</br> submit, click the big green Create Pull Request button.<br/></br>
+  <td><br/>click Create Pull Request button.</br>
     </td>
     <td> <p align="left">
        <img src="p11.PNG" width="550">
     </p>
     </td>
+     <tr>
+    <td><br/>Give a title and a brief <br/><br/>description of your changes.</br>
+    </td>
+    <td> <p align="left">
+       <img src="p12.PNG" width="550">
+    </p>
+    </td>
+  </tr> 
   </tr>
     <tr>
-    <td><br/>View your changes<br/></br>
+    <td><br/>Click Merge pull request<br/><br/>Click Confirm Merge</br>
     </td>
     <td> <p align="left">
        <img src="p10.PNG" width="550">
     </p>
     </td>
   </tr>
-    
+    <tr>
+    <td><br/>Delete your Branch<br/></br>
+    </td>
+    <td> <p align="left">
+       <img src="p13.PNG" width="550">
+    </p>
+    </td>
+  </tr>
     
     
     
