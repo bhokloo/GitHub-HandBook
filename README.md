@@ -37,7 +37,7 @@ If you are working together on the same projects then **Git** will help you to:
     <td>Search for Git Bash
     </td>
     <td> <p align="left">
-       <img src="p1.png" width="350">
+       <img src="p1.png" width="550">
     </p>
     </td>
   </tr>
@@ -46,19 +46,11 @@ If you are working together on the same projects then **Git** will help you to:
     <td>Type git --version
     </td>
     <td> <p align="left">
-       <img src="p2.PNG" width="350">
+       <img src="p2.PNG" width="550">
     </p>
     </td>
   </tr>
-  
-  <tr>
-    <td>Search for Git Bash
-    </td>
-    <td> <p align="left">
-       <img src="p1.png" width="350">
-    </p>
-    </td>
-  </tr>
+ 
 </table>
 
 
